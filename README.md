@@ -1,5 +1,4 @@
 # TA2_05
-Source Code Tugas Akhir
 
 Topik Proyek: Machine Learning
 
@@ -7,10 +6,17 @@ Nama Sistem atau Aplikasi : “Penerapan Sentiment Analysis pada Review Mengguna
 
 Jenis Sistem atau Aplikasi (Desktop/ Mobile/ Web, dll): Google Colab
 
-d.	Persiapan, mencakup: 
-•	Spesifikasi minimal dari device (OS, Memori, Processor, dll)  untuk instalasi program aplikasi web atau mobile tersebut.
-•	Kebutuhan tools terkait (Server, Editor, Database, Browser, Emulator, dll) untuk menjalankan program aplikasi web atau mobile tersebut
-•	Konfigurasi untuk menjalanakan aplikasi web atau mobile tersebut.
+Persiapan, mencakup: 
+Lingkungan  yang  digunakan  dalam  implementasi  Tugas  Akhir  ini  mencakup lingkungan perangkat keras dan perangkat lunak  yang digunakan dalam implementasi. Spesifikasi perangkat keras yang digunakan untuk implementasi adalah sebagai berikut.
+1.	Spesifikasi hardware lingkungan operasional aplikasi antara lain:
+    a.	PC type : Lenovo.
+    b.	Processor : Intel(R) Core(TM) i5-7200U CPU @2.50 GHz (4 CPUs), ~2.7GHz
+    c.	Memory : 8.00 GB 
+    d.	OS : Windows 10
+2.	Spesifikasi software lingkungan operasional aplikasi antara lain:
+    a.	Tools Pengembang : Jupyter Notebook, Google Colaboratory
+    b.	Programming Language :  Python
+    c.	Database : MySQL
 
 Langkah-langkah menjalankan aplikasi web atau mobile tersebut. Jelaskan dengan detail mulai dari download source code  dari github, hingga proses instalasi berhasil dijalankan. Gunakan kalimat yang benar dan gambar yang sesuai.
 1.	Download

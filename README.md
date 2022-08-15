@@ -90,3 +90,4 @@ B. Jupyter notebooK
 ![image](https://user-images.githubusercontent.com/60635181/184641338-83bb829c-8c6a-4c0f-bd2b-bb9d9d89250a.png)
 
 16.  Kemudian  pilih menu kernel  pilih "restrat run all"
+![image](https://user-images.githubusercontent.com/60635181/184641674-7c4cc93f-ee6e-4696-ae86-50ff43a1746d.png)

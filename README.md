@@ -39,6 +39,7 @@ Berikut cara git clone atau cara men-download suatu repository menggunakan Git B
 7. Tekan Enter, maka Git akan mulai men-download repositori tersebut. Anda dapat menunggu sampai seluruh file selesai diunduh.
 
 Setelah selesai Download Repositori, selanjutnya adalah menjalankan sistemnya. Machine learningnya dapat dijalankan pada Google Colaboratory dan Jupyter notebook:
+
 A. Google Colaborator
 1. Buka drive.google.com.
 2. Di kiri atas, klik Baru lalu  Upload File atau Upload Folder.
@@ -62,4 +63,30 @@ Setelah folder terpuload, maka selanjutnya kita dapat menjalankan machine learni
 ![image](https://user-images.githubusercontent.com/60635181/184631381-3d394437-2014-4ede-ac5f-e56de6bb39bc.png)
 8. Langkah 1-6 dapat dilakukan pada semua file yang ada di folder BERT dan SVM
 
+B. Jupyter notebooK
+1. Masuk ke halaman website https://www.python.org/downloads/ untuk mendownload Python
+2. Pilih jenis sistem operasi yang kamu gunakan. (Windows, Linux/UNIX, Mac OS X, Other). Untuk pc/laptop dengan OS Windows 10, klik Windows.
+![image](https://user-images.githubusercontent.com/60635181/184634928-2a24cfe4-e59d-4f2f-afd0-9cd8b5e9e6cb.png)
 
+3. Pilih versi rilis Python yang ingin kamu download. Pemilihan versi ini dapat disesuaikan dengan kebutuhan masing-masing. Di sini saya mendownload Python versi 3.8.  ![image](https://user-images.githubusercontent.com/60635181/184634991-1acb63bb-9ee9-4ac8-a27c-0b0e72f42e27.png)
+
+4. Pilih version “Windows x86–64 executable installer”. Proses download akan berjalan dan tunggu hingga selesai  ![image](https://user-images.githubusercontent.com/60635181/184640633-5b00b9dc-5a02-4068-bf2a-7534fca6b6e7.png)
+
+5. Setelah proses download selesai, buka installer dan klik tombol Run. Jangan lupa untuk memilih opsi menambahkan Python 3.8 ke PATH dan Install launcher for all users sebelum mengklik tombol “Install Now”
+6. Ketika proses instalasi telah selesai, pilih opsi “Disable path length limit” dan tutup proses instalasi Python dengan mengklik tombol Close
+7. Setelah melakukan instalasi, cek apakah Python sudah terinstall dengan baik melalui jendela Command Prompt. Untuk membuka jendela Command Prompt dapat dilakukan dengan mengetikkan “Command Prompt” pada fitur Search.
+8. Kemudian akan muncul jendela sebagai berikut
+9. Tulis perintah: python –version. Jika Python telah terinstall, maka Command Prompt akan menampilkan versi Python tersebut.   
+![image](https://user-images.githubusercontent.com/60635181/184640831-48a43787-00c3-4e21-926a-f931e9820252.png)
+
+10. Jika langkah 7 gagal, buka Environment Variables dengan cara mengetikkannya pada fitur Search di taskbar untuk menambahkan path python secara manual.
+11. Kemudian klik tombol Environment Variables
+12. Cari variabel Path pada jendela System Variable. Kemudian klik Edit.
+13. Klik New untuk menambahkan Path. Kemudian tuliskan lokasi folder instalasi dan klik OK.
+14. Untuk menjalankan Jupyter Notebook, ketikkan perintah “jupyter notebook” pada Command Prompt dan tekan Enter. Kemudian akan tampil jendela sebagai berikut.  
+![image](https://user-images.githubusercontent.com/60635181/184641267-1b4741c0-403a-4c8d-a80d-e601e6156867.png)
+
+15. Klik “New > Python 3” untuk membuka notebook baru. Dan sekarang Jupyter Notebook mu siap digunakan untuk mengeksplor data
+![image](https://user-images.githubusercontent.com/60635181/184641338-83bb829c-8c6a-4c0f-bd2b-bb9d9d89250a.png)
+
+16.  Kemudian  pilih menu kernel  pilih "restrat run all"

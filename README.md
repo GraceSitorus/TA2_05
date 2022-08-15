@@ -46,16 +46,20 @@ A. Google Colaborator
 4. Setelah itu klik button Baru di drive
 5. Klik lainnya, pilih "hubungkan aplikasi lainnya"
 ![image](https://user-images.githubusercontent.com/60635181/184630482-85e9c186-9ca6-4cad-a737-c2c79fb8d448.png)
-
 6. Pada kotak pencarian ketik "Google Colab" dan klik install
+![image](https://user-images.githubusercontent.com/60635181/184630638-7153cb7e-5887-49ba-bfc7-56f2720cf7f2.png)
 
 Setelah folder terpuload, maka selanjutnya kita dapat menjalankan machine learningnya:
-1. Buka salah satu folder yaitu BERT dan SVM
+1. Sistem yang akan di run terdapat pada folder BERT dan SVM
 2. Pertama kita menjalankan metode SVM di folder SVM
-3. Buka salah satu file yang ada  pada folder tersebut
-4. Pilih icon files, klik upload files
-5. Upload dataset "ebay reviews.csv"
-6. Kemudian  pilih menu runtime  pilih "run all"
-7. Langkah 1-6 dapat dilakukan pada semua file yang ada di folder BERT dan SVM
+![image](https://user-images.githubusercontent.com/60635181/184631445-df349bb4-8f4f-4bac-addb-be0483450de9.png)
+4. Buka salah satu file yang ada  pada folder tersebut
+5. Pilih icon files, klik upload files. Upload dataset "ebay reviews.csv"
+![image](https://user-images.githubusercontent.com/60635181/184631515-03817564-abc1-4bca-82f5-f01840b1fef8.png)
+6. Copy path tempat dataset yang upload ke cell berikut
+![image](https://user-images.githubusercontent.com/60635181/184631322-f4bcab4e-5d8c-49bd-bf8e-4a2bd295b994.png)
+7. Kemudian  pilih menu runtime  pilih "run all"
+![image](https://user-images.githubusercontent.com/60635181/184631381-3d394437-2014-4ede-ac5f-e56de6bb39bc.png)
+8. Langkah 1-6 dapat dilakukan pada semua file yang ada di folder BERT dan SVM
 
 

@@ -19,17 +19,35 @@ Lingkungan  yang  digunakan  dalam  implementasi  Tugas  Akhir  ini  mencakup li
     c.	Database : MySQL
 
 Langkah-langkah menjalankan aplikasi web atau mobile tersebut. Jelaskan dengan detail mulai dari download source code  dari github, hingga proses instalasi berhasil dijalankan. Gunakan kalimat yang benar dan gambar yang sesuai.
+Cara Download Repositori:
+
+A. Cara download repository di GitHub secara langsung menjadi .zip:
 1. Pastikan Anda di halaman repositori GitHub yang ingin diunduh.
 2. Klik tombol ‘Code’ yang berwarna hijau.
 3. Klik ‘Download ZIP’.
 4. Repositori GitHub sudah tersimpan dalam direktori download di komputer Anda.
 5. Setelah itu ekstrak  Repositori tersebut.
-6. Buka drive.google.com.
-7. Di kiri atas, klik Baru lalu  Upload File atau Upload Folder.
-8. Pilih file atau folder yang ingin diupload. 
-9. Setelah itu klik buttn Baru di drive
-10. Klik lainnya, pilih "hubungkan aplikasi lainnya"
-11. Pada kotak pencarian ketik "Google Colab" dan klik install
+
+B. Cara git clone menggunakan Git Bash
+Berikut cara git clone atau cara men-download suatu repository menggunakan Git Bash:
+1. Kunjungi halaman repositori yang ingin di-clone ke komputer Anda.
+2. Klik tombol ‘Code’ yang berwarna hijau.
+3. Salin (copy) teks yang ada di dalam kotak. Teks ini merupakan alamat web dari halaman repositori. Kami sarankan Anda untuk mencatat teks ini.
+4. Buka folder tempat Anda ingin menyimpan repositori di komputer.
+5. Klik kanan pada folder tersebut, kemudian pilih Git Bash Here.
+6. Ketik git clone, kemudian tempel (paste) teks yang tadi disalin. (Tip: untuk mem-paste di command prompt seperti ini, tekan Shift+Insert atau Shift+Ins secara bersamaan)
+7. Tekan Enter, maka Git akan mulai men-download repositori tersebut. Anda dapat menunggu sampai seluruh file selesai diunduh.
+
+Setelah selesai Download Repositori, selanjutnya adalah menjalankan sistemnya. Machine learningnya dapat dijalankan pada Google Colaboratory dan Jupyter notebook:
+A. Google Colaborator
+1. Buka drive.google.com.
+2. Di kiri atas, klik Baru lalu  Upload File atau Upload Folder.
+3. Pilih file atau folder yang ingin diupload. 
+4. Setelah itu klik button Baru di drive
+5. Klik lainnya, pilih "hubungkan aplikasi lainnya"
+![image](https://user-images.githubusercontent.com/60635181/184630482-85e9c186-9ca6-4cad-a737-c2c79fb8d448.png)
+
+6. Pada kotak pencarian ketik "Google Colab" dan klik install
 
 Setelah folder terpuload, maka selanjutnya kita dapat menjalankan machine learningnya:
 1. Buka salah satu folder yaitu BERT dan SVM
